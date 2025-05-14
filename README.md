@@ -34,6 +34,14 @@ semangat belajar
 </p>
 
 ---
+# Proyek Firyaladzakia
+
+Selamat datang di repositori ini!
+
+## Foto Firyaladzakia gemashh!
+
+!Ini saya https://drive.google.com/file/d/1CTNluCcDbBYZlTDbQelK3GXFQpK71dkv/view?usp=sharing
+          https://drive.google.com/file/d/1CTNluCcDbBYZlTDbQelK3GXFQpK71dkv/view?usp=sharing
 
 ### Connect with me:
 
