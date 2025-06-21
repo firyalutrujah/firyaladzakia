@@ -40,8 +40,13 @@ Selamat datang di repositori ini!
 
 ## Foto Firyaladzakia gemashh!
 
-!Ini saya https://drive.google.com/file/d/1CTNluCcDbBYZlTDbQelK3GXFQpK71dkv/view?usp=sharing
-          https://drive.google.com/file/d/1CTNluCcDbBYZlTDbQelK3GXFQpK71dkv/view?usp=sharing
+!Ini saya 
+<body>
+  <h1>Halo Dunia!</h1>
+  <img src="foto-aku.png" alt="Foto Aku" width="300">
+  <p>Ini adalah foto saya.</p>
+</body>
+
 
 ### Connect with me:
 
