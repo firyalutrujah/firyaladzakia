@@ -13,7 +13,7 @@ semangat belajar
 
 #### 2. [SMA Sains Al-Quran](https://www.instagram.com/smasainsalquran/) | Yogyakarta `2024-now`
 - Member of Student Council Multimedia ([Mediasains](https://www.instagram.com/mediasains))
-- Leader of Techno Organization ([Technosains](https://www.instagram.com/smas.tech))
+- Leader of CORSE ([ruang.corse](https://www.instagram.com/ruang.corse/)))
 ---
 
 ### Languages and Tools:
@@ -57,11 +57,11 @@ Selamat datang di repositori ini!
 [![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/#gh-dark-mode-only)
+[![website](https://t.me/ryeldza)
+[![website](https://t.me/ryeldza)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/mazlpn/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/mezlpn/#gh-dark-mode-only)
+[![website](https://www.instagram.com/ryeladza_/)
+[![website](https://www.instagram.com/ryeladza_/)
 
 
 
